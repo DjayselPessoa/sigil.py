@@ -1,4 +1,4 @@
-from sigiloFolder.funtionMain import separar
+from folder1.funtionMain import separar
 import unicodedata
 
 preparo = input(
